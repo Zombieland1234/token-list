@@ -1,12 +1,19 @@
 {
-  "chainId": 101,
-  "address": "Bh521uoa2Rue4o3f5rygC4CWEpW316HvCV36Egxy2VAh",
-  "symbol": "ZL",
-  "name": "ZombieLand",
-  "decimals": 9,
-  "logoURI": "https://gateway.pinata.cloud/ipfs/QmRgFzKjPfcUqSiVdxRShKt7Ev3RjVKUCgbggVap8aQJ25",
-  "tags": ["community", "memecoin"],
-  "extensions": {
-    "telegram": "https://t.me/zombielandsol"
-  }
+  "name": "Solana Token List",
+  "tags": {},
+  "timestamp": "2025-05-28T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "Bh521uoa2Rue4o3f5rygC4CWEpW316HvCV36Egxy2VAh",
+      "symbol": "ZL",
+      "name": "ZombieLand",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmRgFzKjPfcUqSiVdxRShKt7Ev3RjVKUCgbggVap8aQJ25",
+      "tags": ["community", "memecoin"],
+      "extensions": {
+        "telegram": "https://t.me/zombielandsol"
+      }
+    }
+  ]
 }
